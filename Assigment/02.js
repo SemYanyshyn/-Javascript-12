@@ -1,3 +1,4 @@
+// це додаткове
 const tree = document.getElementById("tree");
 const li = tree.querySelectorAll("li");
 
