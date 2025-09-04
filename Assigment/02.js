@@ -7,3 +7,4 @@ li.forEach((element) => {
   const descendants = element.querySelectorAll("li").length; // кількість усіх нащадків
   alert(`${ownText}: ${descendants}`);
 });
+
